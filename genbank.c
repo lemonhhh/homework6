@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<stdio.h>
-
+#include "genbank.h"
 
 int split(char *src, char *delim, IString* istr)
 {
