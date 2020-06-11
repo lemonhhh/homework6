@@ -1,5 +1,7 @@
 # homework6
 
+小组成员：刘昕奕 方雨辰 杨子逸 刘梦涵
+
 报告见Report.pdf https://jbox.sjtu.edu.cn/l/Y0TeSV
 
 
