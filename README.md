@@ -4,6 +4,7 @@
 
 报告见Report.pdf https://jbox.sjtu.edu.cn/l/Y0TeSV
 
+源文件：genbank.c,libfasta.c
 
 动态库libfasta.so，libgenbank.so
 
